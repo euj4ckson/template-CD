@@ -1,1 +1,1 @@
-template para facilitar programação em CI
+template para facilitar programação em CodeIgniter
